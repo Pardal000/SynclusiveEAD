@@ -13,6 +13,6 @@ if escolha_computador == escolha_jogador:
 elif (escolha_jogador == "pedra" and escolha_computador =="tesoura") or\
      (escolha_jogador == "papel" and escolha_computador =="pedra" )or\
      (escolha_jogador == "tesoura" and escolha_computador == "pedra"):
-    print("Você perdeu! :(")
+    print("Você perdeu!! :(")
 else:
     print("Você ganhou!!!")
