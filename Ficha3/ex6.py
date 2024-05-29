@@ -7,4 +7,4 @@ altura=float("Indique a sual altura em m:")
 
 IMC=peso/(altura*2)
 
-#Compara IMC do utilizador com IMC tabelado
+#Compara IMC do utilizador com IMC tab
