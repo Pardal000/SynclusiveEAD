@@ -1,0 +1,1 @@
+#Função area() que recebe largura e comprimento e retporna a área do terreno

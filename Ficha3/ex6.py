@@ -5,7 +5,7 @@ altura= float(input("Indique a sual altura em m:"))
 
 #Fazer indice de massa corporal
 
-IMC_inteiro=peso/(altura*2)
+IMC_inteiro=peso/(altura**2)
 IMC = round(IMC_inteiro, 3)
 
 
